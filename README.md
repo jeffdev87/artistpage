@@ -1,2 +1,0 @@
-# artistpage
-Artist's Page
